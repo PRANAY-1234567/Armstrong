@@ -153,3 +153,5 @@ Convert into a reusable function
 
 👨‍💻 Author
 Pranay Jadhao
+
+<img width="646" height="616" alt="image" src="https://github.com/user-attachments/assets/9ee93c26-2761-482a-9be9-a700b4bcc8de" />
