@@ -151,5 +151,4 @@ Check Armstrong numbers in a range
 Convert into a reusable function
 
 👨‍💻 Author
-
 Pranay Jadhao
